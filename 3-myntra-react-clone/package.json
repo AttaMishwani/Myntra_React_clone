@@ -1,9 +1,9 @@
 {
+  "homepage": "https://AttaMishwani.github.io/Myntra_React_clone",
   "name": "3-myntra-react-clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AttaMishwani/myntra-react-clone",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
